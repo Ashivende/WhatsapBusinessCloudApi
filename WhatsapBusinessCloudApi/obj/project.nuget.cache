@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "It71lfFiND57zjNCrI++I13uvCz0bLVzUpv1+zKekZewvT/GRhucq8MHuXM/y0QkU5XYKC8eTtpH7mL9XKeoQQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\denni\\source\\repos\\WhatsapBusinessCloudApi\\WhatsapBusinessCloudApi\\WhatsapBusinessCloudApi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\denni\\.nuget\\packages\\restsharp\\108.0.1\\restsharp.108.0.1.nupkg.sha512",
+    "C:\\Users\\denni\\.nuget\\packages\\system.text.json\\5.0.0\\system.text.json.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
